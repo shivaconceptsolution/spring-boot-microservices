@@ -1,0 +1,40 @@
+*
+{
+	margin:0px;
+}
+header
+{
+	height:100px;
+	background-color:blue;
+	color:white;
+}
+.logo
+{
+	 float:left;
+}
+.menu
+{
+	float:right;
+}
+.menu ul li
+{
+	display:inline-block;
+}
+.menu ul li a
+{
+	color:white;
+	margin-left:20px;
+}
+
+section
+{
+	height:400px;
+	background-color:gray;
+	
+}
+footer
+{
+	height:200px;
+	background-color:orange;
+	color:white;
+}
